@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.primary {
+  color: #0a3637;
+}
+
+.second {
+    color: #02baba;
+  }
+  
